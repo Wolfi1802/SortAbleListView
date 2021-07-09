@@ -1,0 +1,14 @@
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.csprojAssemblyReference.cache
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\MainWindow.g.cs
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\App.g.cs
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting_MarkupCompile.cache
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting_MarkupCompile.lref
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\bin\Debug\testListViewSorting.exe
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\bin\Debug\testListViewSorting.pdb
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\MainWindow.baml
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.g.resources
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.Properties.Resources.resources
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.csproj.GenerateResource.cache
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.csproj.CoreCompileInputs.cache
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.exe
+C:\Users\schuetzler\source\repos\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.pdb

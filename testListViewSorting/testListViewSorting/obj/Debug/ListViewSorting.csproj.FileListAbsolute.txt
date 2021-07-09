@@ -1,0 +1,14 @@
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\bin\Debug\testListViewSorting.exe
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\bin\Debug\testListViewSorting.pdb
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\ListViewSorting.csproj.AssemblyReference.cache
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\MainWindow.g.cs
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\App.g.cs
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting_MarkupCompile.cache
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting_MarkupCompile.lref
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\MainWindow.baml
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.g.resources
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.Properties.Resources.resources
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\ListViewSorting.csproj.GenerateResource.cache
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\ListViewSorting.csproj.CoreCompileInputs.cache
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.exe
+C:\Users\Timo\Desktop\testListViewSorting\testListViewSorting\obj\Debug\testListViewSorting.pdb
